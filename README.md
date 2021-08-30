@@ -1,5 +1,5 @@
 # annotation-best-practices
-Corpus annotation is a task of covering any descriptive or analytic notations applied to raw language data. In the EHR-based environment, there is a lack of standard processes and best practices to ensure AI models are robust and generalizable. The lack of detailed study protocols, such as annotation guidelines and abstraction forms, can cause an AI algorithm to not be reproducible and interpretable. These issues need to be addressed from the perspective of process engineering and quality improvement. To ensure a valid and transparent process of clinical corpus anntation, the following practice guide and annotation template was created
+Corpus annotation is a task of covering any descriptive or analytic notations applied to raw language data. To ensure a valid and transparent process of clinical corpus anntation, the following practice guide and annotation template were created.
 
 # Example Annotation Guidelines
 Chronic Pain: [download](https://jmir.org/api/download?alt_name=medinform_v8i11e18659_app1.pdf&filename=c4ede3025c08f13d71cf142ece36d9b8.pdf) 
