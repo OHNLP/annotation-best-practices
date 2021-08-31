@@ -11,7 +11,7 @@ Mayo Clinic Internal:
 MedTator: https://rcf-cv19-trends.mayo.edu/MedTator/. 
 
 External:  
-Multi-document Annotation Environment: http://keighrim.github.io/mae-annotation/. 
+Multi-document Annotation Environment: http://keighrim.github.io/mae-annotation/  
 Download: https://github.com/keighrim/mae-annotation/releases  
 Tutorial video: https://vimeo.com/manage/videos/233390226  
 Wiki: https://github.com/keighrim/mae-annotation/wiki  
