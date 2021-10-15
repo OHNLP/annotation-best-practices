@@ -1,4 +1,4 @@
-# clinical Text Retrieval and Use towards Scientific rigor and Transparent (TRUST process.
+# TRUST process: clinical Text Retrieval and Use towards Scientific rigor and Transparent.
 
 
 # Protocol Development
