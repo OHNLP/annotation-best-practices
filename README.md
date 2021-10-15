@@ -10,14 +10,13 @@ Chronic Pain: [download](https://jmir.org/api/download?alt_name=medinform_v8i11e
 Delirium: [download](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/biomedgerontology/PAP/10.1093_gerona_glaa275/2/glaa275_suppl_supplementary_materials_1.docx?Expires=1633381711&Signature=w3Na2GoHq1kfoxl-wCdwBI69l8UI5vH04cank9r0SZS-UFPcuM9b570z0y0h~wXdJWifVZk1t8KBSpJ2G5K~VucBUqczjwgBlt23QZh3jTZVj5LegTl1h9EmDjEJDssF-WZ0hxni63fbX0U5-iDdIa7OTAd9TAOQKnMlDjdbxdALk73dqcbDj11ZPwFo16b1AEA~dOCmq4EeE3xcROZMjs6kgUWiHOr37HI38UdLVmmWh5z8d4yEM3VyIU3EvKHUisXjlddbT--cjGSss1rFTTrk6Zf4sX-2nglQQTcALVHVIZSybc46Q1QCx387wddVRP3KuI4JqqxVJIaGrdYdNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)  
 
 # Annotation Tools
+Public:  
+MedTator: https://ohnlp.github.io/MedTator/?st=yes
+
 Mayo Clinic Internal:  
 MedTator: https://rcf-cv19-trends.mayo.edu/MedTator/. 
 
-External:  
-Multi-document Annotation Environment: http://keighrim.github.io/mae-annotation/  
-Download: https://github.com/keighrim/mae-annotation/releases  
-Tutorial video: https://vimeo.com/manage/videos/233390226  
-Wiki: https://github.com/keighrim/mae-annotation/wiki  
+
 
 
 # Reference
