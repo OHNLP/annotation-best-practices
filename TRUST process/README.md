@@ -5,13 +5,13 @@
 ![](https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/1-Protocol-Development-3.png)
 
 # Data Collection
-!(https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/2-Data-Collection-3.png)
+![](https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/2-Data-Collection-3.png)
 
 # Cohort Screening
-![alt text](https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/3.-Cohort-screening-2.png)
+![](https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/3.-Cohort-screening-2.png)
 
 # Corpus Annotation
-![alt text](https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/5.-Corpus-annotation.png)
+![](https://github.com/OHNLP/annotation-best-practices/blob/main/TRUST%20process/5.-Corpus-annotation.png)
 
 
 # Reference
